@@ -1,11 +1,6 @@
 <!-- markdownlint-disable MD032 MD033-->
 # 🔥 **Keyforgetful by Rockstar234 & Kerman**
 
-<p align="center">
-  <a href="https://github.com/Josee9988/project-template/generate">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@Josee9988/project-template's">
-  </a>
-  <br>
   <a href="https://github.com/Josee9988/project-template/issues">
     <img src="https://img.shields.io/github/issues/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's issues"/>
   </a>
