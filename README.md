@@ -2,7 +2,7 @@
 # 🔥 **Keyforgetful by Rockstar234 & Kerman**
 
 <p align="center">
-  <a href="https://github.com/Josee9988/project-template/issues">
+  <a href="https://github.com/Kerman1337/Keyforgetful/issues">
     <img src="https://img.shields.io/github/issues/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's issues"/>
   </a>
   <a href="https://github.com/josee9988/project-template/pulls">
