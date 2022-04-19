@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD032 MD033-->
-# 🔥 **Josee9988's GitHub Project Template**
+# 🔥 **Keyforgetful by Rockstar234 & Kerman**
 
 <p align="center">
   <a href="https://github.com/Josee9988/project-template/generate">
@@ -24,7 +24,11 @@
 
 ## 🤔 **What is this template all about?**
 
-* This template can be used as a base layer for any of your future repositories/projects.
+* Программа для хранения информации личных аккаунтов. В качестве безопасности используется асимметричное шифрование RSA и SHA512.
+* Для максимальной безопасности запускайте программу в изолированной среде(виртуальной машине), храните приватный ключ отдельно в безопасном месте(на съемном носителе информации).
+* text here
+* more text here
+* AND EVEN MORE TEXT HERE WHY
 * Make your project easy to maintain with **8 issue templates**.
 * Quick start your documentation with personalized **README badges** and a cool README structure.
 * Manage your issues with **20 issue labels** created just for you!
