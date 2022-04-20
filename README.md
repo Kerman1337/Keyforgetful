@@ -193,3 +193,10 @@ By donating, you will help the development of this project, and *you will be fea
 
 [Twitch](https://twitch.tv/pr3ttyleaf) | [VK](https://vk.com/dominantsquad) | And more...
 Have a good one! 👓
+
+---
+
+## **TO DO**
+* Внести инфу в 17
+* Внести инфу в 122
+* 
