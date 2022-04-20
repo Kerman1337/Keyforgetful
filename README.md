@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Kerman1337/Keyforgetful/issues">
-    <img src="https://img.shields.io/github/issues/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's issues"/>
+    <img src="https://img.shields.io/github/issues/Kerman1337/Keyforgetful?color=0088ff&style=for-the-badge&logo=github" alt="@Kerman1337/Keyforgetful's issues"/>
   </a>
   <a href="https://github.com/josee9988/project-template/pulls">
     <img src="https://img.shields.io/github/issues-pr/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's pull requests"/>
