@@ -35,94 +35,86 @@
 
 ## ⚡ **Installation**
 
-1. To create a new repository from this template **[generate your new repository from this template](https://github.com/Josee9988/project-template/generate)**
-for more information or guidance, follow the [GitHub guide](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-2. Install the [🤖 used GitHub bots](https://github.com/Josee9988/project-template#-used-github-bots) (recommended)
-3. Clone your new repository **[generated from this template](https://github.com/Josee9988/project-template/generate)** and `cd` into it.
-4. **Execute** the `SETUP_TEMPLATE.sh` shell script to **customize** the files with your data.
-
-    ```bash
-    bash SETUP_TEMPLATE.sh
-    ```
-
-    Or
-
-    ```bash
-    ./SETUP_TEMPLATE.sh
-    ```
-
-    Additionally, watch *[this video](https://asciinema.org/a/425259)* to see **how to execute the script** or use *`bash SETUP_TEMPLATE.sh --help`* to obtain some extra information.
-
-    If the automatic detection of the username, project name or email is NOT right, please post an issue, and you can **manually correct** them using the optional arguments like: *`bash SETUP_TEMPLATE.sh --username=whatever --projectName=whatever --email=whatever --projectType=whatever`*
-
-5. **Review** every single file and **customize** it as you like.
-6. Build your project. 🚀
-
-⚠️ _Customize every file to fit your requirements_ ⚠️
-
----
-
-## 📚 **What does it include?**
-
-1. A **`SETUP_TEMPLATE.sh`** script that **MUST be executed right when you clone your repository**.
-The script will customize all the data with yours in all the files.
-
-   1. A README template file with a default template to start documenting your project. (it includes personalized badges and text with your project details)
-   1. A CHANGELOG template file based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
-   1. An [issue_label_bot.yaml](/.github/issue_label_bot.yaml) file to use the issue adder GitHub bot. [Activate it or check its documentation](https://github.com/marketplace/issue-label-bot).
-   1. A [config.yml](/.github/config.yml) file to modify multiple bot's behaviours.
-   1. A [settings.yml](/.github/settings.yml) file to use the popular settings GitHub bot. [Activate it or check its documentation](https://probot.github.io/apps/settings/).
-   1. A [CONTRIBUTING](/.github/CONTRIBUTING.md) explaining how to contribute to the project. [Learn more with the GitHub guide](https://docs.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors).
-   1. A [SUPPORT](/.github/SUPPORT.md) explaining how to support the project. [Learn more with the GitHub guide](https://docs.github.com/en/github/building-a-strong-community/adding-support-resources-to-your-project).
-   1. A [SECURITY](/.github/SECURITY.md) with a guide on how to post a security issue. [Learn more with the GitHub guide](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository).
-   1. A [CODEOWNERS](/.github/CODEOWNERS) with the new user as the main owner. [Learn more with the GitHub guide](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners).
-   1. A [CODE_OF_CONDUCT](/.github/CODE_OF_CONDUCT.md) with a basic code of conduct. [Learn more with the GitHub guide](https://docs.github.com/en/github/building-a-strong-community/adding-a-code-of-conduct-to-your-project).
-   1. A [PULL_REQUEST_TEMPLATE](/.github/pull_request_template.md) with a template for your pull request that closes issues with keywords. [Learn more with the GitHub guide](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository).
-   1. Multiple [issues templates](/.github/ISSUE_TEMPLATE). [Learn more with the GitHub guide](https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository).
-        1. A [config.yml](/.github/ISSUE_TEMPLATE/config.yml) with the config and information about the issue templates.
-        1. A [Blank issue template](/.github/ISSUE_TEMPLATE) with the super basic stuff, all the issues should contain.
-        1. A [Bug issue template](/.github/ISSUE_TEMPLATE/1-bug-report.md).
-        1. A [Failing test issue template](/.github/ISSUE_TEMPLATE/2-failing-test.md).
-        1. A [Documentation issue template](/.github/ISSUE_TEMPLATE/3-docs-bug.md).
-        1. A [Feature request issue template](/.github/ISSUE_TEMPLATE/4-feature-request.md).
-        1. An [Enhancement request issue template](/.github/ISSUE_TEMPLATE/5-enhancement-request.md).
-        1. A [Security report issue template](/.github/ISSUE_TEMPLATE/6-security-report.md).
-        1. A [Question or support issue template](/.github/ISSUE_TEMPLATE/7-question-support.md).
+1. ***TO DO*** 
 
 ---
 
 ### 🌲 **Project tree**
 
-Files that will get removed after the execution of `SETUP_TEMPLATE.sh` are not shown! 🙈
+The list of files that `/Keyforgetful` includes in itself! 🙈
 
 ```text
 .
 ├── CHANGELOG.md
-├── .github
-│   ├── CODE_OF_CONDUCT.md
-│   ├── CODEOWNERS
-│   ├── config.yml
-│   ├── CONTRIBUTING.md
-│   ├── FUNDING.yml
-│   ├── issue_label_bot.yaml
-│   ├── ISSUE_TEMPLATE
-│   │   ├── 1-bug-report.md
-│   │   ├── 2-failing-test.md
-│   │   ├── 3-docs-bug.md
-│   │   ├── 4-feature-request.md
-│   │   ├── 5-enhancement-request.md
-│   │   ├── 6-security-report.md
-│   │   ├── 7-question-support.md
-│   │   └── config.yml
-│   ├── ISSUE_TEMPLATE.md
-│   ├── pull_request_template.md
-│   ├── SECURITY.md
-│   ├── settings.yml
-│   └── SUPPORT.md
-├── .gitignore
-└── README.md
-
-2 directories, 22 files
+├── data
+│   ├── .gitkeep
+├── drawio
+│   ├── ps_database.drawio
+│   ├── ps_sync.drawio
+│   ├── ps_module.drawio
+│   ├── ps_windows.drawio
+├── py
+│   ├── ui
+│   │   ├── about_ui.py
+│   │   ├── adding_data_ui.py
+│   │   ├── change_ui.py
+│   │   ├── database_creation_ui.py
+│   │   ├── loading_db_ui.py
+│   │   ├── main_menu_ui.py
+│   │   ├── settings_ui.py
+│   │   ├── start_window_ui.py
+│   │   └── sync_db_ui.py
+│   ├── about.py
+│   ├── adding_data.py
+│   ├── change.py
+│   ├── database.py
+│   ├── database_creation.py
+│   ├── loading_db.py
+│   ├── main_menu.py
+│   ├── print_list.py
+│   ├── res_rc.py
+│   ├── settings.py
+│   ├── show_msg.py
+│   ├── spinner_widget.py
+│   ├── start_window.py
+│   └── sync_db.py
+├── resource
+│   ├── gif
+│   │   ├── loading.gif
+│   ├── image
+│   │   ├── Icon-Copy.ico
+│   │   ├── add_db.ico
+│   │   ├── checkmark.ico
+│   │   ├── cross.ico
+│   │   ├── exit.ico
+│   │   ├── key.ico
+│   │   ├── print.ico
+│   │   ├── question.ico
+│   │   ├── save.ico
+│   │   ├── search_db.ico
+│   │   ├── settings.ico
+│   │   ├── sync_db.ico
+│   ├── sqlcipher
+│   ├── res.qrc
+├── ui
+│   ├── About.ui
+│   ├── AddingData.ui
+│   ├── Change.ui
+│   ├── DatabaseCreation.ui
+│   ├── LoadingDB.ui
+│   ├── MainMenu.ui
+│   ├── Settings.ui
+│   ├── StartWindow.ui
+│   ├── SyncDB.ui
+├── Install Addons.bat
+├── README.md
+├── password_saver.py
+├── password_saver.exe
+└── requirements.txt
+```
+---
+```
+1 branch, 9 directory, 66 files
 ```
 
 ---
