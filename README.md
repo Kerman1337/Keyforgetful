@@ -156,13 +156,13 @@ A couple of screenshots to delight you before you use this template.
 ### 🔺 All the issue templates
 
 <p align="center">
-  <img width="70%" height="70%" src="https://i.imgur.com/SDJixBz.png" alt="All the issue templates.">
+  <img width="70%" height="70%" src="https://i.imgur.com/lNA2hOA.png" alt="All the issue templates.">
 </p>
 
 ### 🔻 An issue template opened
 
 <p align="center">
-  <img width="70%" height="70%" src="https://i.imgur.com/r5AiLWu.png" alt="Bug issue template opened.">
+  <img width="70%" height="70%" src="https://i.imgur.com/lNA2hOA.png" alt="Bug issue template opened.">
 </p>
 
 ### 📘 The README template
@@ -170,9 +170,7 @@ A couple of screenshots to delight you before you use this template.
 Badges and texts will be replaced with your project details!
 
 <p align="center">
-  <img width="70%" height="70%" src="https://i.imgur.com/dKKh53K.png" alt="README.md template.">
-
-  Or watch [this video](https://gifs.com/gif/josee9988-s-readme-md-MwO5E3) to see the whole README template.
+  <img width="70%" height="70%" src="https://i.imgur.com/lNA2hOA.png" alt="README.md template.">
 </p>
 
 ### 🔖 The labels for your issues
@@ -181,26 +179,6 @@ If the bot [probot-settings](https://probot.github.io/apps/settings/) is not ins
 
 <p align="center">
   <img width="70%" height="70%" src="https://i.imgur.com/dS91k6R.png" alt="LABELS">
-</p>
-
-### 📝 The CHANGELOG template
-
-(project name and project type will be replaced with yours)
-
-<p align="center">
-  <img width="70%" height="70%" src="https://i.imgur.com/ScWgQKI.png" alt="CHANGELOG.md template.">
-</p>
-
-### 🛡️ Security policy
-
-<p align="center">
-  <img width="70%" height="70%" src="https://i.imgur.com/ArwDQTi.png" alt="Security issue.">
-</p>
-
-### 💼 Community profile at 100%
-
-<p align="center">
-  <img width="70%" height="70%" src="https://i.imgur.com/kRt3lPs.png" alt="Community profile.">
 </p>
 
 ---
@@ -216,26 +194,20 @@ We also recommend installing all the [used bots](https://github.com/Josee9988/pr
 
 If you want to improve the development of this project, you must, after changing or improving whatever, run the project's tests to prove that they are working.
 
-To do so:
-
-```bash
-bash tests/TESTS_RUNNER.sh
-```
-
 ---
 
 ## 🍰 **Supporters and donators**
 
-<a href="https://github.com/Josee9988/project-template/generate">
-  <img alt="@Josee9988/project-template's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
+<a href="https://github.com/Kerman1337/Keyforgetful">
+  <img alt="@Kerman1337/Keyforgetful's brand logo without text" align="right" src="https://cdn.discordapp.com/emojis/946448229690671144.webp?size=96&quality=lossless" width="18%" />
 </a>
 
 We are currently looking for new donators to help and maintain this project! ❤️
 
 By donating, you will help the development of this project, and *you will be featured in this project's README.md*, so everyone can see your kindness and visit your content ⭐.
 
-<a href="https://github.com/sponsors/Josee9988">
-  <img src="https://img.shields.io/badge/Sponsor-Josee9988/project template-blue?logo=github-sponsors&style=for-the-badge&color=red">
+<a href="https://github.com/sponsors/Kerman1337">
+  <img src="https://img.shields.io/badge/Sponsor-Kerman1337/Keyforgetful-blue?logo=github-sponsors&style=for-the-badge&color=red">
 </a>
 
 ---
