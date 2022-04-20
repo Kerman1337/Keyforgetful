@@ -44,7 +44,6 @@
 The list of files that `/Keyforgetful` includes in itself! 🙈
 
 ```text
-.
 ├── CHANGELOG.md
 ├── data
 │   ├── .gitkeep
@@ -204,17 +203,11 @@ By donating, you will help the development of this project, and *you will be fea
 
 ---
 
-## 🎉 Was the template helpful? Help us raise these numbers up
+## 🎉 Was the project helpful for you? Support us just by following / rating us.
 
-[![GitHub's followers](https://img.shields.io/github/followers/Josee9988.svg?style=social)](https://github.com/Josee9988)
-[![GitHub stars](https://img.shields.io/github/stars/Josee9988/project-template.svg?style=social)](https://github.com/Josee9988/project-template/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/Josee9988/project-template.svg?style=social)](https://github.com/Josee9988/project-template/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/Josee9988/project-template.svg?style=social)](https://github.com/Josee9988/project-template/network/members)
+[![GitHub's followers](https://img.shields.io/github/followers/Rockstar234.svg?style=social)](https://github.com/Rockstar234)
+[![GitHub stars](https://img.shields.io/github/stars/Kerman1337/Keyforgetful.svg?style=social)](https://github.com/Kerman1337/Keyforgetful/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/Kerman1337/Keyforgetful.svg?style=social)](https://github.com/Kerman1337/Keyforgetful/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/Kerman1337/Keyforgetful.svg?style=social)](https://github.com/Josee9988/Keyforgetful/network/members)
 
-Enjoy! 😃
-
-> ⚠️ Remember that this template should be reviewed and modified to fit your requirements.
-> The script **SETUP_TEMPLATE.sh** should be executed right when you clone your new repository generated from [here](https://github.com/Josee9988/project-template/generate).
-> There will be files that will need *manual revision* ⚠️
-
-_Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)**_
+Have a good one! 👓
