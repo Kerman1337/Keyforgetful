@@ -1,16 +1,15 @@
 <!-- markdownlint-disable MD032 MD033-->
-# 🔥 **Keyforgetful by Rockstar234 & Kerman**
+# 🔥 **Keyforgetful**
 
 <p align="center">
   <a href="https://github.com/Kerman1337/Keyforgetful/issues">
     <img src="https://img.shields.io/github/issues/Kerman1337/Keyforgetful?color=0088ff&style=for-the-badge&logo=github" alt="@Kerman1337/Keyforgetful's issues"/>
-  </a> 
-  <a href="https://github.com/sponsors/Kerman1337">
-  <img src="https://img.shields.io/badge/Sponsor-blue?logo=github-sponsors&style=for-the-badge&color=grey">
-</a>
   <a href="https://github.com/josee9988/project-template/pulls">
     <img src="https://img.shields.io/github/issues-pr/Kerman1337/Keyforgetful?color=0088ff&style=for-the-badge&logo=github" alt="@Kerman1337/Keyforgetful's pull requests"/>
   </a> 
+  <a href="https://github.com/sponsors/Kerman1337">
+  <img src="https://img.shields.io/badge/Sponsor-blue?logo=github-sponsors&style=for-the-badge&color=grey">
+</a> 
 </p>
 
 ---
@@ -22,20 +21,22 @@
 * text here
 * more text here
 * AND EVEN MORE TEXT HERE WHY
-* Make your project easy to maintain with **8 issue templates**.
-* Quick start your documentation with personalized **README badges** and a cool README structure.
-* Manage your issues with **20 issue labels** created just for you!
-* Make your _community healthier_ with all the guides like code of conduct, contributing, support, security...
-* Learn more with the [official GitHub guide on creating repositories from a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-* To start using it; "**[click use this template](https://github.com/Josee9988/project-template/generate)**" and create your new repository,
-* All the basic setup is made through an easy script that will auto-detect all your data to make it lightning fast! 🗲🗲 clone your new repository and execute the `SETUP_TEMPLATE.sh` shell script to personalize the files with your private details. Check how to execute it [here](https://asciinema.org/a/425259).
-* All the markdown follows ["MarkdownLint" rules](https://github.com/DavidAnson/markdownlint).
 
 ---
 
 ## ⚡ **Installation**
 
-1. ***TO DO*** 
+There is 2 ways *(Easy and Advanced)* of getting program on your PC so let's check them out really quick and really easily.
+  
+* Go to [Releases](https://github.com/Kerman1337/Keyforgetful/releases) and download the latest version :)
+  
+  
+but if you're advanced one user: 
+* [Download](https://github.com/Kerman1337/Keyforgetful/archive/refs/heads/main.zip) the source by clicking [Code](https://github.com/Kerman1337/Keyforgetful/archive/refs/heads/main.zip).
+* Un-zip the source somewhere in safe place.
+* Cross down a bit and read the requirements and come back when you're ready.
+* Double-click on `Install Addons.bat` and wait until all the job going to be completed.
+* And only then double-click `password_saver.py` or `password_saver.exe`, it depends on your preferences.
 
 ---
 
@@ -129,15 +130,6 @@ The list of files that `/Keyforgetful` includes in itself! 🙈
   2. Right-click on the git repository folder and click "*git bash here*".
   3. Then just perform *`bash SETUP_TEMPLATE.sh`* **or** *`chmod u+x SETUP_TEMPLATE.sh && ./SETUP_TEMPLATE.sh`*.
 
-### 🤖 **Used GitHub bots**
-
-These are recommended bots that are prepared and configured for this template. If you install them your coding experience will probably be much better.
-We deeply recommend at least installing the [issue label bot](https://github.com/marketplace/issue-label-bot) as this bot is the one that adds all the labels used in the issue templates.
-
-1. The `issue_label_bot.yaml` file depends on the **[issue label bot](https://github.com/marketplace/issue-label-bot)** (✓ highly recommended).
-2. The `settings.yml` file depends on the **[settings label bot](https://probot.github.io/apps/settings/)** (optional).
-3. The `config.yml` file depends on the bot **[welcome bot](https://probot.github.io/apps/welcome/)** and **[to-do bot](https://probot.github.io/apps/todo/)** (optional).
-
 ---
 
 ## 📸 **Screenshots**
@@ -164,26 +156,11 @@ Badges and texts will be replaced with your project details!
   <img width="70%" height="70%" src="https://i.imgur.com/lNA2hOA.png" alt="README.md template.">
 </p>
 
-### 🔖 The labels for your issues
-
-If the bot [probot-settings](https://probot.github.io/apps/settings/) is not installed you will not have these beautiful labels! (there are actually more issue labels than in the image!)
-
-<p align="center">
-  <img width="70%" height="70%" src="https://i.imgur.com/dS91k6R.png" alt="LABELS">
-</p>
-
 ---
 
-## 🕵️ **Extra recommendations**
+## 💉 **Project improvements**
 
-For the right maintenance of the CHANGELOG.md, we recommend this [VSCode extension](https://github.com/Josee9988/Changelog-and-Markdown-snippets)
-and the read and understanding of the [keep a changelog guide](https://keepachangelog.com/en/1.0.0/).
-Read and comment about it in this [dev.to post](https://dev.to/josee9988/the-ultimate-github-project-template-1264).
-We also recommend installing all the [used bots](https://github.com/Josee9988/project-template#-used-github-bots).
-
-## 💉 **Project tests**
-
-If you want to improve the development of this project, you must, after changing or improving whatever, run the project's tests to prove that they are working.
+If you want to improve the development of this project, you can help us by finding problems and telling us via [Issue reports](https://github.com/Kerman1337/Keyforgetful/issues), but after changing or improving whatever, run the project's tests to prove that they are working, please!
 
 ---
 
@@ -210,4 +187,9 @@ By donating, you will help the development of this project, and *you will be fea
 [![GitHub watchers](https://img.shields.io/github/watchers/Kerman1337/Keyforgetful.svg?style=social)](https://github.com/Kerman1337/Keyforgetful/watchers)
 [![GitHub forks](https://img.shields.io/github/forks/Kerman1337/Keyforgetful.svg?style=social)](https://github.com/Josee9988/Keyforgetful/network/members)
 
+---
+
+## 🕵️‍♂️ **Follow us on social-media. Support the authors.**
+
+[Twitch](https://twitch.tv/pr3ttyleaf) | [VK](https://vk.com/dominantsquad) | And more...
 Have a good one! 👓
