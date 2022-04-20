@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/issues/Kerman1337/Keyforgetful?color=0088ff&style=for-the-badge&logo=github" alt="@Kerman1337/Keyforgetful's issues"/>
   </a>
   <a href="https://github.com/josee9988/project-template/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's pull requests"/>
+    <img src="https://img.shields.io/github/issues-pr/Kerman1337/Keyforgetful?color=0088ff&style=for-the-badge&logo=github" alt="@Kerman1337/Keyforgetful's pull requests"/>
   </a>
   <a href="https://github.com/Josee9988/project-template/generate">
     <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@Josee9988/project-template link to create a new repository from the template">
