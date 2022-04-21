@@ -150,6 +150,9 @@ The list of files that [Keyforgetful](https://github.com/Kerman1337/Keyforgetful
 * Q: How many passwords can I keep?
 * A: Unlimited.
 
+* Q: Is it paid service? How much is the month fee?
+* A: It's fully free of charge and you don't have to pay anyone.
+
 ---
 
 ## 📸 **Screenshots**
