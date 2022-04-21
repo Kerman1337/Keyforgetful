@@ -20,12 +20,6 @@
   <a href="https://github.com/Kerman1337/Keyforgetful/releases"><img src="https://img.shields.io/github/v/release/Kerman1337/Keyforgetful">
   </a>
 </p>
-<p align="center">
-  [telegram-news-badge]: https://img.shields.io/badge/DominantSquad-Telegram-blue?style=flat&logo=Telegram
-  [telegram-news]: https://t.me/dominantsquad
-
-  [![Telegram][telegram-news-badge]][telegram-news]
-</p>
   
 ---
 
