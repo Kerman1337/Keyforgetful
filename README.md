@@ -16,6 +16,8 @@
   </a>
   <a href="https://www.python.org/downloads/release/python-380/"><img alt="Python3" src="https://img.shields.io/badge/built%20for-Python≥3.8-blue.svg?style=flat">
   </a>
+  <a href="https://github.com/Kerman1337/Keyforgetful/issues?q=is%3Aissue+is%3Aclosed"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/Kerman1337/Keyforgetful">
+  </a>
 </p>
 
 ---
