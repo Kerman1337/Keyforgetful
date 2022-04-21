@@ -137,6 +137,9 @@ The list of files that [Keyforgetful](https://github.com/Kerman1337/Keyforgetful
 
 * Q: Linux / masOS supported?
 * A: No.
+
+* Q: Android / iOS supported?
+* A: Maybe later, but we aren't sure at all.
   
 * Q: Your project seems to be copy-pasted..?
 * A: Yes, but not just copy-pasted. The original creator and repo are mentioned in our [SECURITY.md](https://github.com/Kerman1337/Keyforgetful/security/policy). We are not telling the untruth to anyone.
