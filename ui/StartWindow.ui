@@ -23,7 +23,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Password Saver - Вход</string>
+   <string>Keyforgetful - Вход</string>
   </property>
   <widget class="QLabel" name="label_5">
    <property name="geometry">
