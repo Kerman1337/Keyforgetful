@@ -12,7 +12,7 @@ class About(QtWidgets.QDialog, about.Ui_Dialog):
             <head/>
                 <body style="line-height:20%">
                     <p>Версия {version}</p>
-                    <p>Password Saver - программа для хранения аккаунтов.</p>
+                    <p>Keyforgetful - программа для хранения аккаунтов.</p>
                 </body>
         </html>
         """)
