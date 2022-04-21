@@ -52,7 +52,7 @@ but if you're advanced one user:
 
 ### 🌲 **Project tree**
 
-The list of files that `/Keyforgetful` includes in itself! 🙈
+The list of files that [Keyforgetful](https://github.com/Kerman1337/Keyforgetful) includes in itself! 🙈
 
 ```text
 ├── CHANGELOG.md
