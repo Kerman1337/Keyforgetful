@@ -23,7 +23,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Password Saver - Главная</string>
+   <string>Keyforgetful - Главная</string>
   </property>
   <property name="windowIcon">
    <iconset resource="../resource/res.qrc">
