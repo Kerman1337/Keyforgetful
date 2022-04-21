@@ -150,7 +150,7 @@ The list of files that [Keyforgetful](https://github.com/Kerman1337/Keyforgetful
 
 ## 📸 **Screenshots**
 
-A couple of screenshots to delight you before you use this template.
+A couple of screenshots to delight you before you use this software.
 
 ### 🔺 Main menu
 
