@@ -167,26 +167,32 @@ A couple of screenshots to delight you before you use this software.
 ### 🔺 Main menu
 
 <p align="center">
-  <img width="70%" height="70%" src="https://i.imgur.com/lNA2hOA.png" alt="All the issue templates.">
+  <img width="70%" height="70%" src="" alt="Program just opened.">
 </p>
 
 ### 🔻 Data-Base creation tab
 
 <p align="center">
-  <img width="70%" height="70%" src="https://i.imgur.com/lNA2hOA.png" alt="Bug issue template opened.">
+  <img width="70%" height="70%" src="" alt="A tab when you're creating a profile.">
 </p>
 
 ### 📃 Data-Base overview
 
-Badges and texts will be replaced with your project details!
-
 <p align="center">
-  <img width="70%" height="70%" src="https://i.imgur.com/lNA2hOA.png" alt="README.md template.">
+  <img width="70%" height="70%" src="" alt="Already created profile showcase.">
 </p>
 
 ### 📝 Adding password / login tab
 
+<p align="center">
+  <img width="70%" height="70%" src="" alt="Adding a data to your data base.">
+</p>
+
 ### 📋 Password / Login inside the data-base
+
+<p align="center">
+  <img width="70%" height="70%" src="" alt="The list of information you added.">
+</p>
 
 ---
 
