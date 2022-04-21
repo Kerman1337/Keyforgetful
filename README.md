@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/Sponsor-blue?logo=github-sponsors&style=for-the-badge&color=grey">
 </a> 
 </p>
+<p align="center">
+  <a href="https://github.com/Kerman1337/Keyforgetful"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Kerman1337/Keyforgetful">
+  </a>
+  <a href="https://www.python.org/downloads/release/python-380/"><img alt="Python3" src="https://img.shields.io/badge/built%20for-Python≥3.8-blue.svg?style=flat">
+  </a>
+</p>
 
 ---
 
