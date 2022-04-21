@@ -43,7 +43,7 @@ There is 2 ways *(Easy and Advanced)* of getting program on your PC so let's che
   
 but if you're advanced one user:
 * Download [Python 3.9.x](https://python.org/downloads/) if you haven't done yet. 
-* [Download](https://github.com/Kerman1337/Keyforgetful/archive/refs/heads/main.zip) the source by clicking [Code](https://github.com/Kerman1337/Keyforgetful/archive/refs/heads/main.zip).
+* Download the [source](https://github.com/Kerman1337/Keyforgetful/archive/refs/heads/main.zip) by clicking [Code](https://github.com/Kerman1337/Keyforgetful/archive/refs/heads/main.zip).
 * Un-zip the source somewhere in safe place.
 * Cross down a bit and read the requirements and come back when you're ready.
 * Double-click on `Install Addons.bat` and wait until all the job going to be completed.
