@@ -206,7 +206,7 @@ If you want to improve the development of this project, you can help us by findi
 ## 🍰 **Supporters and donators**
 
 <a href="https://github.com/Kerman1337/Keyforgetful">
-  <img alt="@Kerman1337/Keyforgetful's brand logo without text" align="right" src="https://cdn-icons-png.flaticon.com/512/3125/3125268.png?size=96&quality=lossless" width="15%" />
+  <img alt="@Kerman1337/Keyforgetful's brand logo without text" align="right" src="https://cdn.discordapp.com/emojis/946448229690671144.webp?size=96&quality=lossless" width="18%" />
 </a>
 
 We are currently looking for new donators to help and maintain this project! ❤️
