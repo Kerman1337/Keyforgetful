@@ -147,6 +147,9 @@ The list of files that [Keyforgetful](https://github.com/Kerman1337/Keyforgetful
 * Q: Did anyone help you? *(teacher's question)*
 * A: Yes, but secrets stay secret.
 
+* Q: How many passwords can I keep?
+* A: Unlimited.
+
 ---
 
 ## 📸 **Screenshots**
