@@ -153,6 +153,8 @@ The list of files that [Keyforgetful](https://github.com/Kerman1337/Keyforgetful
 * Q: Is it paid service? How much is the month fee?
 * A: It's fully free of charge and you don't have to pay anyone.
 
+* Q: What guaranties can you give that my personal data won't be leaked?
+* A: All the data is decrypted and secured by your personal password to access the data-base.
 ---
 
 ## 📸 **Screenshots**
