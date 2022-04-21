@@ -7,6 +7,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [**1.1.1**] - 2022-21-04
+
+### Fixed
+
+* Fixed [CHANGELOG.md](https://github.com/Kerman1337/Keyforgetful/blob/main/CHANGELOG.md)
+
 ## [**1.1.0**] - 2022-21-04
 
 ### Added
@@ -17,7 +23,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ### Added
 
-* [README.md](https://github.com/Kerman1337/Keyforgetful/README.md/) & [SECURITY.md](https://github.com/Kerman1337/Keyforgetful/SECURITY.md/)
+* [README.md](https://github.com/Kerman1337/Keyforgetful/blob/main/README.md) & [SECURITY.md](https://github.com/Kerman1337/Keyforgetful/blob/main/SECURITY.md)
 
 ## [**1.0.1**] - 2022-20-04
 
