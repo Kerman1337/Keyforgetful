@@ -29,7 +29,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>Password Saver - Создание базы данных</string>
+   <string>Keyforgetful - Создание базы данных</string>
   </property>
   <widget class="QLabel" name="label_2">
    <property name="geometry">
