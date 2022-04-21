@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/Kerman1337/Keyforgetful"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Kerman1337/Keyforgetful">
   </a>
-  <a href="https://www.python.org/downloads/release/python-380/"><img alt="Python3" src="https://img.shields.io/badge/built%20for-Python≥3.8.X-blue.svg?style=flat">
+  <a href="https://www.python.org/downloads/release/python-380/"><img alt="Python3" src="https://img.shields.io/badge/built%20for-Python≥3.8.X-yellow.svg?style=flat">
   </a>
   <img src="https://img.shields.io/tokei/lines/github/Kerman1337/Keyforgetful">
   <a href="https://github.com/Kerman1337/Keyforgetful/releases"><img src="https://img.shields.io/github/v/release/Kerman1337/Keyforgetful">
