@@ -379,7 +379,7 @@
       </font>
      </property>
      <property name="text">
-      <string>Password Saver</string>
+      <string>Keyforgetful</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignHCenter|Qt::AlignTop</set>
