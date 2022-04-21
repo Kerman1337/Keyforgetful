@@ -85,7 +85,7 @@
     </font>
    </property>
    <property name="text">
-    <string>Password Saver</string>
+    <string>Keyforgetful</string>
    </property>
   </widget>
   <widget class="QWidget" name="gridLayoutWidget">
