@@ -23,7 +23,7 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Password Saver - О программе</string>
+   <string>Keyforgetful - О программе</string>
   </property>
   <property name="windowIcon">
    <iconset resource="../resource/res.qrc">
@@ -48,7 +48,7 @@
        </font>
       </property>
       <property name="text">
-       <string>Password Saver</string>
+       <string>Keyforgetful</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
@@ -63,7 +63,7 @@
        </font>
       </property>
       <property name="text">
-       <string>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot;line-height:20%&quot;&gt;&lt;p&gt;Версия 1.0.0&lt;/p&gt;&lt;p&gt;Password Saver - программа для хранения аккаунтов.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       <string>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot;line-height:20%&quot;&gt;&lt;p&gt;Версия 1.0.0&lt;/p&gt;&lt;p&gt;Keyforgetful - программа для хранения аккаунтов.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
       </property>
       <property name="textFormat">
        <enum>Qt::AutoText</enum>
@@ -85,7 +85,7 @@
     <item row="2" column="1">
      <widget class="QLabel" name="label_4">
       <property name="text">
-       <string>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot;line-height:20%&quot;&gt;&lt;p&gt;GitHub&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/rybkinn/PasswordSaver&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#315bef;&quot;&gt;https://github.com/rybkinn/PasswordSaver&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       <string>&lt;html&gt;&lt;head/&gt;&lt;body style=&quot;line-height:20%&quot;&gt;&lt;p&gt;GitHub&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Kerman1337/Keyforgetful&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#315bef;&quot;&gt;https://github.com/Kerman1337/Keyforgetful&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
       </property>
      </widget>
     </item>
@@ -130,7 +130,7 @@
     <item row="3" column="1">
      <widget class="QLabel" name="label_5">
       <property name="text">
-       <string>Программу сделал: Никита Рыбкин</string>
+       <string>Made by Rockstar234 & Kerman1337</string>
       </property>
      </widget>
     </item>
