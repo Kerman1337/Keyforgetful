@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #############################################
 # Password Saver by Rybkin Nikita Igorevich #
+# # # # # # Modify by Rockstar234 # # # # # #
 #############################################
 import sys
 
