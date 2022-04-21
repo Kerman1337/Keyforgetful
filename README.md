@@ -123,7 +123,7 @@ The list of files that `/Keyforgetful` includes in itself! 🙈
 
 ## 📝 **FAQ**
 
-* Q: Why do anyone need it when Google, Apple and others already has the auto-saves on their devices & web-browsers?
+* Q: Why do anyone need it when Google, Apple and others already have the auto-saves on their devices & web-browsers?
 * A: Actually, I saw my teachers have a huge amount of saved passwords / logins, but they are incorrent in most cases and they don't even edit already saved passwords. Maybe this project will make them to edit / save the actual data.
 
 * Q: Linux / masOS supported?
@@ -144,25 +144,29 @@ The list of files that `/Keyforgetful` includes in itself! 🙈
 
 A couple of screenshots to delight you before you use this template.
 
-### 🔺 All the issue templates
+### 🔺 Main menu
 
 <p align="center">
   <img width="70%" height="70%" src="https://i.imgur.com/lNA2hOA.png" alt="All the issue templates.">
 </p>
 
-### 🔻 An issue template opened
+### 🔻 Data-Base creation tab
 
 <p align="center">
   <img width="70%" height="70%" src="https://i.imgur.com/lNA2hOA.png" alt="Bug issue template opened.">
 </p>
 
-### 📘 The README template
+### 📃 Data-Base overview
 
 Badges and texts will be replaced with your project details!
 
 <p align="center">
   <img width="70%" height="70%" src="https://i.imgur.com/lNA2hOA.png" alt="README.md template.">
 </p>
+
+### 📝 Adding password / login tab
+
+### 📋 Password / Login inside the data-base
 
 ---
 
