@@ -51,6 +51,73 @@ but if you're advanced one user:
 
 ---
 
+## 📝 **FAQ**
+
+* Q: Why do anyone need it when Google, Apple and others already have the auto-saves on their devices & web-browsers?
+* A: Actually, I saw my teachers have a huge amount of saved passwords / logins, but they are incorrent in most cases and they don't even edit already saved passwords. Maybe this project will make them to edit / save the actual data.
+
+* Q: Linux / masOS supported?
+* A: No.
+
+* Q: Android / iOS supported?
+* A: Maybe later, but we aren't sure at all.
+  
+* Q: Your project seems to be copy-pasted..?
+* A: Yes, but not just copy-pasted. The original creator and repo are mentioned in our [SECURITY.md](https://github.com/Kerman1337/Keyforgetful/security/policy). We are not telling the untruth to anyone.
+
+* Q: Who are you?
+* A: [Rockstar234](https://github.com/Rockstar234). Secrets stay secret.
+
+* Q: Did anyone help you? *(teacher's question)*
+* A: Yes, but secrets stay secret.
+
+* Q: How many passwords can I keep?
+* A: Unlimited.
+
+* Q: Is it paid service? How much is the month fee?
+* A: It's fully free of charge and you don't have to pay anyone.
+
+* Q: What guaranties can you give that my personal data won't be leaked?
+* A: All the data is decrypted, secured by your personal password and stays on your device.
+
+---
+
+## 📸 **Screenshots**
+
+A couple of screenshots to delight you before you use this software.
+
+### 🔺 Main menu
+
+<p align="center">
+  <img width="70%" height="70%" src="" alt="Program just opened.">
+</p>
+
+### 🔻 Data-Base creation tab
+
+<p align="center">
+  <img width="70%" height="70%" src="" alt="A tab when you're creating a profile.">
+</p>
+
+### 📃 Data-Base overview
+
+<p align="center">
+  <img width="70%" height="70%" src="" alt="Already created profile showcase.">
+</p>
+
+### 📝 Adding password / login tab
+
+<p align="center">
+  <img width="70%" height="70%" src="" alt="Adding a data to your data base.">
+</p>
+
+### 📋 Password / Login inside the data-base
+
+<p align="center">
+  <img width="70%" height="70%" src="" alt="The list of information you added.">
+</p>
+
+---
+
 ### 🌲 **Project tree**
 
 The list of files that [Keyforgetful](https://github.com/Kerman1337/Keyforgetful) includes in itself! 🙈
@@ -127,73 +194,6 @@ The list of files that [Keyforgetful](https://github.com/Kerman1337/Keyforgetful
 ```
 1 branch, 9 directory, 66 files
 ```
-
----
-
-## 📝 **FAQ**
-
-* Q: Why do anyone need it when Google, Apple and others already have the auto-saves on their devices & web-browsers?
-* A: Actually, I saw my teachers have a huge amount of saved passwords / logins, but they are incorrent in most cases and they don't even edit already saved passwords. Maybe this project will make them to edit / save the actual data.
-
-* Q: Linux / masOS supported?
-* A: No.
-
-* Q: Android / iOS supported?
-* A: Maybe later, but we aren't sure at all.
-  
-* Q: Your project seems to be copy-pasted..?
-* A: Yes, but not just copy-pasted. The original creator and repo are mentioned in our [SECURITY.md](https://github.com/Kerman1337/Keyforgetful/security/policy). We are not telling the untruth to anyone.
-
-* Q: Who are you?
-* A: [Rockstar234](https://github.com/Rockstar234). Secrets stay secret.
-
-* Q: Did anyone help you? *(teacher's question)*
-* A: Yes, but secrets stay secret.
-
-* Q: How many passwords can I keep?
-* A: Unlimited.
-
-* Q: Is it paid service? How much is the month fee?
-* A: It's fully free of charge and you don't have to pay anyone.
-
-* Q: What guaranties can you give that my personal data won't be leaked?
-* A: All the data is decrypted, secured by your personal password and stays on your device.
-
----
-
-## 📸 **Screenshots**
-
-A couple of screenshots to delight you before you use this software.
-
-### 🔺 Main menu
-
-<p align="center">
-  <img width="70%" height="70%" src="" alt="Program just opened.">
-</p>
-
-### 🔻 Data-Base creation tab
-
-<p align="center">
-  <img width="70%" height="70%" src="" alt="A tab when you're creating a profile.">
-</p>
-
-### 📃 Data-Base overview
-
-<p align="center">
-  <img width="70%" height="70%" src="" alt="Already created profile showcase.">
-</p>
-
-### 📝 Adding password / login tab
-
-<p align="center">
-  <img width="70%" height="70%" src="" alt="Adding a data to your data base.">
-</p>
-
-### 📋 Password / Login inside the data-base
-
-<p align="center">
-  <img width="70%" height="70%" src="" alt="The list of information you added.">
-</p>
 
 ---
 
