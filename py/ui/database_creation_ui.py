@@ -91,9 +91,9 @@ class Ui_Dialog(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "Password Saver - Создание базы данных"))
+        Dialog.setWindowTitle(_translate("Dialog", "Keyforgetful - Создание базы данных"))
         self.label_2.setText(_translate("Dialog", "Создание базы данных"))
-        self.label.setText(_translate("Dialog", "Password Saver"))
+        self.label.setText(_translate("Dialog", "  Keyforgetful"))
         self.label_3.setText(_translate("Dialog", "Введите название"))
         self.label_4.setText(_translate("Dialog", "Введите пароль"))
         self.label_5.setText(_translate("Dialog", "Подтвердите пароль"))

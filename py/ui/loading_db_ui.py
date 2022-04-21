@@ -113,6 +113,6 @@ class Ui_Dialog(object):
         self.label_3.setText(_translate("Dialog", "Выберете базу"))
         self.pushButton.setText(_translate("Dialog", "Войти"))
         self.label_2.setText(_translate("Dialog", "Загрузка базы данных"))
-        self.label.setText(_translate("Dialog", "Password Saver"))
+        self.label.setText(_translate("Dialog", "Keyforgetful"))
         self.label_4.setText(_translate("Dialog", "Введите пароль"))
         self.toolButton.setText(_translate("Dialog", "..."))

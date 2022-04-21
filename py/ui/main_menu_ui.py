@@ -264,7 +264,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Password Saver - Главная"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Keyforgetful - Главная"))
         self.treeWidget.headerItem().setText(0, _translate("MainWindow", "Раздел"))
         self.treeWidget.headerItem().setText(1, _translate("MainWindow", "Название"))
         self.treeWidget.headerItem().setText(2, _translate("MainWindow", "Логин"))
@@ -274,7 +274,7 @@ class Ui_MainWindow(object):
         self.treeWidget.headerItem().setText(6, _translate("MainWindow", "URL"))
         self.toolButton_pubkey.setText(_translate("MainWindow", "Укажите pubkey.pem"))
         self.label_version.setText(_translate("MainWindow", "v 0.1"))
-        self.label_heading.setText(_translate("MainWindow", "Password Saver"))
+        self.label_heading.setText(_translate("MainWindow", "Keyforgetful"))
         self.pushButton_addingData.setText(_translate("MainWindow", "Добавить"))
         self.pushButton_showHideSections.setText(_translate("MainWindow", "Развернуть все разделы"))
         self.pushButton_showPass.setText(_translate("MainWindow", "Показать пароли"))

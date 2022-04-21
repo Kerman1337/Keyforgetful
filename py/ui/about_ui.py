@@ -75,9 +75,9 @@ class Ui_Dialog(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "Password Saver - О программе"))
-        self.label_2.setText(_translate("Dialog", "Password Saver"))
-        self.label_3.setText(_translate("Dialog", "<html><head/><body style=\"line-height:20%\"><p>Версия 1.0.0</p><p>Password Saver - программа для хранения аккаунтов.</p></body></html>"))
-        self.label_4.setText(_translate("Dialog", "<html><head/><body style=\"line-height:20%\"><p>GitHub</p><p><a href=\"https://github.com/rybkinn/PasswordSaver\"><span style=\" text-decoration: underline; color:#315bef;\">https://github.com/rybkinn/PasswordSaver</span></a></p></body></html>"))
+        Dialog.setWindowTitle(_translate("Dialog", "Keyforgetful - О программе"))
+        self.label_2.setText(_translate("Dialog", "Keyforgetful"))
+        self.label_3.setText(_translate("Dialog", "<html><head/><body style=\"line-height:20%\"><p>Версия 1.2.1</p><p>Keyforgetful - программа для хранения аккаунтов.</p></body></html>"))
+        self.label_4.setText(_translate("Dialog", "<html><head/><body style=\"line-height:20%\"><p>GitHub</p><p><a href=\"https://github.com/Kerman1337/Keyforgetful\"><span style=\" text-decoration: underline; color:#315bef;\">https://github.com/Kerman1337/Keyforgetful</span></a></p></body></html>"))
         self.pushButton.setText(_translate("Dialog", "Закрыть"))
-        self.label_5.setText(_translate("Dialog", "Программу сделал: Никита Рыбкин"))
+        self.label_5.setText(_translate("Dialog", "Программу сделал: Kerman1337 and Rockstar234"))

@@ -304,7 +304,7 @@ class MainMenu(QtWidgets.QMainWindow, main_menu_ui.Ui_MainWindow):
             self.menu_context_album)
 
     def retranslate_ui_main(self):
-        self.setWindowTitle(f"Password Saver - Главная | {self.db_name}")
+        self.setWindowTitle(f"Keyforgetful - Главная | {self.db_name}")
         __sortingEnabled = self.treeWidget.isSortingEnabled()
         self.treeWidget.setSortingEnabled(False)
         self.add_tree_widget_item_text()

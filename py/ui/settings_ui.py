@@ -47,5 +47,5 @@ class Ui_Dialog(object):
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "Password Saver - Настройки"))
+        Dialog.setWindowTitle(_translate("Dialog", "Keyforgetful - Настройки"))
         self.label.setText(_translate("Dialog", "Время перед очисткой буфера обмена"))

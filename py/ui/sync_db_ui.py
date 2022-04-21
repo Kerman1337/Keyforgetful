@@ -188,5 +188,5 @@ class Ui_Dialog(object):
         self.label_4.setText(_translate("Dialog", "Введите пароль"))
         self.label_10.setText(_translate("Dialog", "Совпадают ключи"))
         self.toolButton.setText(_translate("Dialog", "..."))
-        self.label.setText(_translate("Dialog", "Password Saver"))
+        self.label.setText(_translate("Dialog", "Keyforgetful"))
         self.label_11.setText(_translate("Dialog", "Добавлено 0 аккаунтов"))
