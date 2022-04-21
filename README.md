@@ -14,13 +14,13 @@
 
 ---
 
-## 🤔 **What is this template all about?**
+## 🤔 **What is this program about?**
 
-* Программа для хранения информации личных аккаунтов. В качестве безопасности используется асимметричное шифрование RSA и SHA512.
-* Для максимальной безопасности запускайте программу в изолированной среде(виртуальной машине), храните приватный ключ отдельно в безопасном месте(на съемном носителе информации).
-* text here
-* more text here
-* AND EVEN MORE TEXT HERE WHY
+* Program which creates secured data-bases by using RSA & SHA512 decryption.
+* Data Base may contain your login, password for every website / client.
+* Program allows to generate original and safe password, if your password isn't that safe or original.
+* After creating a data-base you will always be able to view your data, even on different PC, but you should copy `.db` files somewhere and import them then.
+* If you use the program on someone's PC we recommend to not leave `.db` files and save them somewhere, too.
 
 ---
 
@@ -28,6 +28,7 @@
 
 There is 2 ways *(Easy and Advanced)* of getting program on your PC so let's check them out really quick and really easily.
   
+* Download [Python](https://python.org/downloads/) if you haven't yet.
 * Go to [Releases](https://github.com/Kerman1337/Keyforgetful/releases) and download the latest version :)
   
   
@@ -119,16 +120,22 @@ The list of files that `/Keyforgetful` includes in itself! 🙈
 
 ---
 
-## 📝 **Additional notes**
+## 📝 **FAQ**
 
-* After **[generating your new repo with this template](https://github.com/Josee9988/project-template/generate)**, make sure to, right after you clone it, run the script `SETUP_TEMPLATE.sh`.
+* Q: Why do anyone need it when Google, Apple and others already has the auto-saves on their devices & web-browsers?
+* A: Actually, I saw my teachers have a huge amount of saved passwords / logins, but they are incorrent in most cases and they don't even edit already saved passwords. Maybe this project will make them to edit / save the actual data.
 
-* Then you will be presented with all the files modified with your project details and information. It is very important to **manually review every file** to check if it fits your requirements and performs any necessary changes to customize the project as you want.
+* Q: Linux / masOS supported?
+* A: No.
+  
+* Q: Your project seems to be copy-pasted..?
+* A: Yes, but not just copy-pasted. The original creator and repo are mentioned in our [SECURITY.md](https://github.com/Kerman1337/Keyforgetful/security/policy). We are not telling the untruth to anyone.
 
-* If you are using **Windows** and you don't know how to execute the `SETUP_TEMPLATE.sh` script:
-  1. Install **[git for Windows](https://git-scm.com/download/win)**.
-  2. Right-click on the git repository folder and click "*git bash here*".
-  3. Then just perform *`bash SETUP_TEMPLATE.sh`* **or** *`chmod u+x SETUP_TEMPLATE.sh && ./SETUP_TEMPLATE.sh`*.
+* Q: Who are you?
+* A: [Rockstar234](https://github.com/Rockstar234). Secrets stay secret.
+
+* Q: Did anyone help you? *(teacher's question)*
+* A: Yes, but secrets stay secret.
 
 ---
 
@@ -197,7 +204,5 @@ Have a good one! 👓
 ---
 
 ## **TO DO**
-* Внести инфу в 17
-* Внести инфу в 122
 * Добавить скриншоты 
 * закомпилить
