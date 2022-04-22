@@ -23,16 +23,6 @@
   
 ---
 
-## 🤔 **What is this program about?**
-
-* Program which creates secured data-bases by using RSA & SHA512 decryption.
-* Data Base may contain your login, password for every website / client.
-* Program allows to generate original and safe password, if your password isn't that safe or original.
-* After creating a data-base you will always be able to view your data, even on different PC, but you should copy `.db` files somewhere and import them then.
-* If you use the program on someone's PC we recommend to not leave `.db` files and save them somewhere, too.
-
----
-
 ## ⚡ **Installation**
 
 There is 2 ways *(Easy and Advanced)* of getting program on your PC so let's check them out really quick and really easily.
@@ -48,6 +38,16 @@ but if you're advanced one user:
 * Cross down a bit and read the requirements and come back when you're ready.
 * Double-click on `Install Addons.bat` and wait until all the job going to be completed.
 * And only then double-click `password_saver.py` or `password_saver.exe`, it depends on your preferences.
+
+---
+
+## 🤔 **What is this program about?**
+
+* Program which creates secured data-bases by using RSA & SHA512 decryption.
+* Data Base may contain your login, password for every website / client.
+* Program allows to generate original and safe password, if your password isn't that safe or original.
+* After creating a data-base you will always be able to view your data, even on different PC, but you should copy `.db` files somewhere and import them then.
+* If you use the program on someone's PC we recommend to not leave `.db` files and save them somewhere, too.
 
 ---
 
