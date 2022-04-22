@@ -101,7 +101,7 @@ A couple of screenshots to delight you before you use this software.
 ### 📝 Adding password / login tab
 
 <p align="center">
-  <img width="70%" height="70%" src="" alt="Adding a data to your data base.">
+  <img width="70%" height="70%" src="https://i.imgur.com/IWI0jj4.png" alt="Adding a data to your data base.">
 </p>
 
 ### 📋 Data-Base overview
