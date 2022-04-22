@@ -89,13 +89,13 @@ A couple of screenshots to delight you before you use this software.
 ### 🔺 Main menu
 
 <p align="center">
-  <img width="70%" height="70%" src="" alt="Program just opened.">
+  <img width="70%" height="70%" src="https://i.imgur.com/BiqDwPO.png" alt="Program just opened.">
 </p>
 
 ### 🔻 Data-Base creation tab
 
 <p align="center">
-  <img width="70%" height="70%" src="" alt="A tab when you're creating a profile.">
+  <img width="70%" height="70%" src="https://i.imgur.com/dOGx4g9.gif" alt="A tab when you're creating a profile.">
 </p>
 
 ### 📝 Adding password / login tab
@@ -107,7 +107,7 @@ A couple of screenshots to delight you before you use this software.
 ### 📋 Data-Base overview
 
 <p align="center">
-  <img width="70%" height="70%" src="" alt="The list of information you added.">
+  <img width="70%" height="70%" src="https://i.imgur.com/h3XDMRo.png" alt="The list of information you added.">
 </p>
 
 ---
