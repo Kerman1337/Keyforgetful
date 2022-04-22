@@ -7,6 +7,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 
 ---
 
+## [**1.2.1**] - 2022-22-04
+
+### Fixed
+
+* Fix mirror bug and ready to release
+
+## [**1.2.0**] - 2022-22-04
+
+### Fixed
+
+* Small fix
+
 ## [**1.1.1**] - 2022-21-04
 
 ### Fixed
