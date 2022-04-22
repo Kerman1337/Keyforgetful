@@ -98,19 +98,13 @@ A couple of screenshots to delight you before you use this software.
   <img width="70%" height="70%" src="" alt="A tab when you're creating a profile.">
 </p>
 
-### 📃 Data-Base overview
-
-<p align="center">
-  <img width="70%" height="70%" src="" alt="Already created profile showcase.">
-</p>
-
 ### 📝 Adding password / login tab
 
 <p align="center">
   <img width="70%" height="70%" src="" alt="Adding a data to your data base.">
 </p>
 
-### 📋 Password / Login inside the data-base
+### 📋 Data-Base overview
 
 <p align="center">
   <img width="70%" height="70%" src="" alt="The list of information you added.">
